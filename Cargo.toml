@@ -1,0 +1,11 @@
+[package]
+name = "rise-stellar-payment-system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+stellar-sdk = "0.24.0"  # Eğer Stellar SDK yoksa kaldırabilirsin
+dotenv = "0.15"
