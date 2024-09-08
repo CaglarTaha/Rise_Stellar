@@ -24,7 +24,7 @@ pub async fn send_payment(from_secret: &str, to_address: &str, amount: &str, mem
         "from": from_secret,
         "to": to_address,
         "amount": amount,
-        "asset": "native",  // XLM
+        "asset": "native",  
         "memo": memo
     });
 
