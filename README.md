@@ -1,5 +1,8 @@
 
 ```markdown
+
+#PROJE TEKNİK SEBEPLERDEN ÖTÜRÜ TAMAMLANAMAMIŞTIR 
+
 #Stellar Fullstack Bootcamp - Turkey
 
 Bu proje, Stellar ağı üzerinde XLM ödemeleri ve kısa mesajlar gönderimi yapabilen basit bir sistemdir. Kullanıcılar, Stellar ağı aracılığıyla XLM transferi yapabilir ve bu transferlere kısa mesajlar ekleyebilirler. Ayrıca, cüzdan bakiyelerini sorgulama imkanı sunar.
