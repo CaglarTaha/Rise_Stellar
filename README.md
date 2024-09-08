@@ -27,6 +27,7 @@ Bu proje, Stellar ağı üzerinde XLM ödemeleri ve kısa mesajlar gönderimi ya
 
    ```sh
    cargo build
+   cargo run
    ```
 
 2. **Ortam Değişkenlerini Ayarlayın:**
